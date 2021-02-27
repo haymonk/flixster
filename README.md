@@ -41,5 +41,5 @@ Temporarily adjusted the autolayout of images by using autoresizing. Also spent 
 <img src="http://g.recordit.co/FGKgWw8qTO.gif" width=250><br>
 
 ### Notes
-Most time-consuming aspect was removing local storage to create more space for the assignment and troubleshooting CocoaPods installation.
-Aside from that, the directions were straight-forward. 
+Most time-consuming aspect was removing local storage to create more space for the assignment and troubleshooting CocoaPods installation. Note-to-self: purchase an external hard drive.
+Aside from that, the process was straight-forward. 
